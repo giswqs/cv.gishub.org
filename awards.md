@@ -1,1 +1,24 @@
 # Awards
+
+- 2024 Google Open Source Peer Bonus Award
+- 2024 Graduate Teaching Award, Department of Geography & Sustainability, UTK
+- 2023 Google Open Source Peer Bonus Award
+- 2023 International Geospatial Innovation Award, UK Ordnance Survey
+- 2022 CPGIS Innovation Award
+- 2022 Google Developer Expert (GDE) for Earth Engine
+- 2022 Early Career Research Award, College of Arts and Sciences, UTK
+- 2022 Better Scientific Software (BSSw) Honorable Mention
+- 2020 Global Young Scientist Award. World Geospatial Developers Conference
+- 2018 AI for Earth Microsoft Azure and Esri Award. Microsoft & Esri
+- 2017 Top 1% of Peer Reviewers in Multidisciplinary. Publons
+- 2017 Harpur College of Arts and Sciences Teaching Award - Best Instructor of Graduate Classes. Binghamton University
+- 2017 AAG Research Grant Award. American Association of Geographers (AAG)
+- 2016 Sentinel of Science Award (Top 10% of reviewers in the field of Earth and Planetary Sciences by Publons)
+- 2015 Finalist. Honors Competition for Student Papers, Remote Sensing Specialty Group, American Association of Geographers (AAG)
+- 2013 Robert Bruce McNee Award for Outstanding Academic Achievements, University of Cincinnati
+- 2013 First Place, Graduate Poster Forum Award. University of Cincinnati
+- 2012 Graduate Student Summer Research Fellowship. University of Cincinnati
+- 2012 Excellent Graduate Research Award. GIESN Center, University of Cincinnati
+- 2012 Student Travel Grants. International Geographic Information Fund (IGIF), AAG
+- 2010 First Place, Student Paper Competition. GIS Specialty Group, AAG
+- 2010 Second Place. Student Poster Competition, OhioView SATELLITES Geospatial Technology Conference

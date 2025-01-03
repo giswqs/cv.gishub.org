@@ -14,6 +14,7 @@ project:
     - file: about.md
     - file: research.md
     - file: publications.md
+    - file: books.md
     - file: awards.md
     - file: teaching.md
     - file: services.md
