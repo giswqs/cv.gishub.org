@@ -23,6 +23,6 @@ project:
 site:
   template: book-theme
   options:
-    logo_text: "Qiusheng Wu"
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo_text: "Geospatial Data Science"
+    favicon: favicon.ico
+    logo: logo.png
