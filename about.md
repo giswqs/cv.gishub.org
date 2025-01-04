@@ -1,5 +1,11 @@
 # About Me
 
+```{image} https://wetlands.io/file/images/Qiusheng_Wu.webp
+:alt: Qiusheng Wu Photo
+:width: 200px
+:align: left
+```
+
 ## Short Bio
 
 Dr. Qiusheng Wu is an Associate Professor and the Director of Graduate Studies in the [Department of Geography & Sustainability](https://geography.utk.edu) at the University of Tennessee, Knoxville. He also serves as an Amazon Visiting Academic. Dr. Wu specializes in geospatial data science and open-source software development, with a research focus on utilizing big geospatial data and cloud computing to study environmental changes, particularly in surface water and wetland inundation dynamics. He is the creator of several widely used open-source Python packages, including geemap, leafmap, and segment-geospatial, which are designed for advanced geospatial analysis and visualization. Explore his open-source contributions on GitHub at <https://github.com/opengeos>.
